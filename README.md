@@ -203,7 +203,7 @@ Wireless communication, network intelligence, anomaly detection, and AI-driven c
 
 ### 🧬 Research Assistant
 
-**Botanics Lab**  
+**Botacin's Lab**  
 Texas A&M University, USA
 
 Working on malware detection, YARA rule-matching, classifier benchmarking, and concept-drift analysis.
