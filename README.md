@@ -325,7 +325,6 @@ A research project on reliable and explainable renal abnormality classification 
 
 </td>
 
-<td width="50%" valign="top" bgcolor="#FDF4FF">
 <td width="50%" valign="top" bgcolor="#F0FDF4">
 
 ### 🔬 Histopathology Classification
@@ -346,9 +345,52 @@ An explainable MaxViT-Tiny framework with Gated Residual Feature Modulation for 
 
 </td>
 
-### 🧪 Research Direction
+</tr>
 
-Currently exploring reliable AI systems for healthcare, cybersecurity, and intelligent network environments.
+<tr>
+
+<td width="50%" valign="top" bgcolor="#FDF4FF">
+
+### 🌿 MobileTinyViT
+
+A lightweight Vision Transformer framework for cotton leaf disease classification using MobileViT and TinyViT models.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Smart%20Agriculture-A21CAF?style=flat-square"/>
+<img src="https://img.shields.io/badge/MobileViT%20%7C%20TinyViT-86198F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Crop%20Disease%20Detection-701A75?style=flat-square"/>
+
+<br/><br/>
+
+<a href="https://github.com/Ashikuzzaman026/MobileTinyVit">
+<img src="https://img.shields.io/badge/Explore%20Project-A21CAF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top" bgcolor="#F8FAFC">
+
+### 📚 Research Projects
+
+Exploring reliable, explainable, and efficient artificial intelligence systems across healthcare, cybersecurity, smart agriculture, and intelligent network environments.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Trustworthy%20AI-475569?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-334155?style=flat-square"/>
+<img src="https://img.shields.io/badge/Real--World%20AI-1E293B?style=flat-square"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🧪 Research Direction
+
+Currently exploring reliable and explainable AI systems for healthcare, cybersecurity, smart agriculture, and intelligent network environments.
 
 <br/>
 
@@ -356,11 +398,19 @@ Currently exploring reliable AI systems for healthcare, cybersecurity, and intel
 <img src="https://img.shields.io/badge/Trustworthy%20AI-86198F?style=flat-square"/>
 <img src="https://img.shields.io/badge/Real--World%20Impact-701A75?style=flat-square"/>
 
-</td>
+<br/><br/>
 
-</tr>
-</table>
+Research interests include:
 
+- Explainable artificial intelligence.
+- Medical image analysis.
+- Histopathology and renal CT classification.
+- Cotton leaf disease and smart agriculture.
+- Lightweight Vision Transformers.
+- Cybersecurity and intrusion detection.
+- IoT anomaly detection.
+- Reliable and trustworthy machine learning.
+- Robustness, calibration, and real-world AI deployment.
 ---
 
 <a name="publications"></a>
