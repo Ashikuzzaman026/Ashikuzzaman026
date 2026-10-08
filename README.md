@@ -326,6 +326,25 @@ A research project on reliable and explainable renal abnormality classification 
 </td>
 
 <td width="50%" valign="top" bgcolor="#FDF4FF">
+<td width="50%" valign="top" bgcolor="#F0FDF4">
+
+### 🔬 Histopathology Classification
+
+An explainable MaxViT-Tiny framework with Gated Residual Feature Modulation for lung and colon histopathology classification.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Medical%20AI-16A34A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Histopathology-15803D?style=flat-square"/>
+<img src="https://img.shields.io/badge/Explainable%20AI-166534?style=flat-square"/>
+
+<br/><br/>
+
+<a href="https://github.com/Ashikuzzaman026/Histopathology-Classification">
+<img src="https://img.shields.io/badge/Explore%20Project-16A34A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
 
 ### 🧪 Research Direction
 
